@@ -75,7 +75,6 @@ const Header = ({ type }) => {
               A lifetime of discounts? It's Genius
             </h1>
             <p className="headerDesc">
-              {" "}
               Officia ea dolor veniam qui et laboris esse aliqua. Consectetur
               elit eiusmod veniam officia. Et sint anim proident ad aute
             </p>
